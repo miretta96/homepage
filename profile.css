@@ -1,0 +1,43 @@
+header {
+    width: 100%;
+    height: 130px;
+    color: coral;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 130px;
+}
+
+
+#intro_img{
+    height: 200px;
+    width:  400px;
+    display: block; 
+    margin: 50px auto 0px auto;
+}
+
+#back_button{
+    height: 100px;
+    width:  100px;
+    position: fixed;
+    top : 250px;
+    left : 80%;
+}
+
+.hello {
+    font-family: arial;
+    font-size: 30px;
+}
+
+.myName {
+    font-size: 50px;
+    font-weight: 800;
+    color : mediumspringgreen;
+}
+
+.introduceMe{
+    margin-top: 80px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+}
